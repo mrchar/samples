@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /api
+spring:
+  jpa:
+    show-sql: true
+logging:
+  level:
+    org.hibernate.orm.jdbc.bind: trace
