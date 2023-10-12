@@ -1,3 +1,4 @@
 rootProject.name = 'samples'
 include 'web'
 include 'jpa'
+include 'openapi'
